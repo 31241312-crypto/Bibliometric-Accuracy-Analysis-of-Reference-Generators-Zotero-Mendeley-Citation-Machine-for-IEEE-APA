@@ -1,0 +1,2 @@
+# Bibliometric-Accuracy-Analysis-of-Reference-Generators-Zotero-Mendeley-Citation-Machine-for-IEEE-APA
+Short Description:  This study evaluates the bibliometric accuracy of reference management and citation generation tools, including Zotero, Mendeley, and Citation Machine, by comparing their generated citations and bibliographies against IEEE and APA formatting standards to identify errors, inconsistencies, and reliability differences.
